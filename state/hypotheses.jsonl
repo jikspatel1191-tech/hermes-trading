@@ -1,0 +1,1 @@
+{"ts": "2026-05-24T05:32:43.038951+00:00", "mode": "fallback", "version_from": "01", "version_to": "02", "score_before": 0.0, "variable_changed": "entry.threshold", "old_value": 30.0, "new_value": 32.0, "reasoning": "Realised return 0.00% < target 9.00%. Loosening entry threshold 30.0 \u2192 32.0 to capture more trades.", "one_variable_only": true}

@@ -1,4 +1,4 @@
-version: '02'
+version: '01'
 entry:
   indicator: rsi
   threshold: 32.0
